@@ -1,2 +1,2 @@
 # video-poker
-A video poker game in Python. 
+A "Jacks or Better" video poker game.
